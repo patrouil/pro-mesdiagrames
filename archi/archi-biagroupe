@@ -1,20 +1,38 @@
-<mxfile host="app.diagrams.net" modified="2023-02-06T14:54:02.866Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="Srm1FmfTXqP121fLA4sm" version="20.8.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-06T15:53:42.924Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="9sMOSLEZguaZ-zt5kcuC" version="20.8.11" type="github">
   <diagram name="Page-1" id="XFxVTFw2m2hoGY1dRsRi">
-    <mxGraphModel dx="794" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="794" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="JAT5LbAMlBC3jl-3k4vd-1" value="Recrutement" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JAT5LbAMlBC3jl-3k4vd-1" value="RH" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JAT5LbAMlBC3jl-3k4vd-2" value="Nouvelles Missions&lt;br&gt;AO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JAT5LbAMlBC3jl-3k4vd-2" value="Appel Offres" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JAT5LbAMlBC3jl-3k4vd-3" value="Public&lt;br&gt;Web sites" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="30" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JAT5LbAMlBC3jl-3k4vd-4" value="Collaboratif" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="30" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JAT5LbAMlBC3jl-3k4vd-5" value="recrutement.alteam.com&lt;br&gt;Candidature" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="40" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JAT5LbAMlBC3jl-3k4vd-6" value="Boond Manager&lt;br&gt;Workflow candidat&lt;br&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="40" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JAT5LbAMlBC3jl-3k4vd-7" value="Teams / BIA Royale&lt;br&gt;Publication de Profils" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="40" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JAT5LbAMlBC3jl-3k4vd-8" value="email Exchange&lt;br&gt;Forward Teams" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="120" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JAT5LbAMlBC3jl-3k4vd-10" value="Alerte nouvel AO&lt;br&gt;Teams / BIA Royale" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="120" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JAT5LbAMlBC3jl-3k4vd-11" value="Alerte nouvel AO&lt;br&gt;Teams / BIA Royale" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="120" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
